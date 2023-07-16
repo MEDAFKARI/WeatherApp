@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,400;1,500&display=swap');
+
+.container{
+    font-family: Rubik;
+}
+
+h1{
+    color: #1D5D9B;
+    margin-bottom: 40px;
+}
+
+.btn{
+    background-color: #1D5D9B;
+}
